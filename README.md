@@ -1,5 +1,4 @@
 # Moving Ball
-GameDev done in C++ using graphics.h library
 
 ### How to Play:-
 1) Use Left,Right Arrow Keys to move the ball left/right.
